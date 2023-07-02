@@ -8,7 +8,7 @@
     "versionName":"1.0",
     "versionCode":1,
     "size":110,
-    "desc":"HelloWorld demo",
+    "desc":"This is a simple program that will print "Hello jdk!!!" to the terminal.",
     "swing":0,
     "jar":1,
     "img":"http://www.coobbi.com/",
