@@ -13,7 +13,7 @@
     "jar":1,
     "img":"http://www.coobbi.com/",
     "class_path":"https://www.github.com/coobbi/JavaStudy/",
-    "java_path":"https://www.github.com/coobbi/JavaStudy",
+    "java_path":"<a href='https://www.github.com/coobbi/JavaStudy'>Java Source</a>",
   	"jar_path":"https://github.com/coobbi/JavaStudy/raw/main/java/Hello/Hello.jar",
     "subcontent": {
       "id": 315
