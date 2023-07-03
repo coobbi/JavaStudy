@@ -5,8 +5,8 @@
     "sorti": 1,
     "title": "Hello.jar",
     "versionCode":1,
-    "versionName":"1.0"
-    "size":100
+    "versionName":"1.0",
+    "size":100,
     "img": "",
     "isLeaf": 0,
     "content": {
