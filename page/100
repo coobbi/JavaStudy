@@ -13,7 +13,7 @@
     "jar":1,
     "img":"http://www.coobbi.com/",
     "class_path":"https://www.github.com/coobbi/JavaStudy/",
-    "java_path":"<a href='https://github.com/coobbi/JavaStudy/raw/main/java/HelloWorldSwing/HelloWorldSwing.java'>Java Source</a>",
+    "java_path":"<a href='https://github.com/coobbi/JavaStudy/blob/main/java/HelloWorldSwing/HelloWorldSwing.java'>Java Source</a>",
   	"jar_path":"https://github.com/coobbi/JavaStudy/raw/main/java/HelloWorldSwing/HelloWorldSwing.jar",
     "subcontent": {
       "id": 315
