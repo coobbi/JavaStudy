@@ -1,0 +1,24 @@
+[
+  {
+    "id": 6,
+    "type": 0,
+    "sorti": 10,
+    "title": "BufferedReaderExample",
+    "name":"BufferedReaderExample.jar",
+    "versionName":"1.0",
+    "versionCode":1,
+    "size":1,
+    "desc":"This will print input value on the terminal",
+    "swing":0,
+    "jar":1,
+    "img":"http://www.coobbi.com/",
+    "class_path":"https://www.github.com/coobbi/JavaStudy/",
+    "java_path":"<a href='https://github.com/coobbi/JavaStudy/raw/main/java/BufferedReaderExample/BufferedReaderExample.java'>Java Source</a>",
+  	"jar_path":"https://github.com/coobbi/JavaStudy/raw/main/java/BufferedReaderExample/BufferedReaderExample.jar",
+    "subcontent": {
+      "id": 315
+    },
+    "items": [
+    ]
+  }
+]
